@@ -1,11 +1,3 @@
-/*
-Name: Nouman Amir
-CMS: 336369
-Lab: ATM Machine Code
-Compiled using gcc compiler.
-Note: I have done the Cash_Deposit and Fill Cash in ATM in a Single Function called cash_deposit.
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
