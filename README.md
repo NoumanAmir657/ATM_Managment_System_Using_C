@@ -1,1 +1,6 @@
-# ATM_Managment_System_Using_C
+# README.md
+
+### 1) Create an Account
+### 2) Deposit Money
+### 3) Withdraw Money
+### 4) See your Transaction Summary
